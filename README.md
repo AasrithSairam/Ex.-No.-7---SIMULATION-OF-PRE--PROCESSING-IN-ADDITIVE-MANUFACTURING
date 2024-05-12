@@ -45,8 +45,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Ponguru Aasrith Sairam
+### Register Number: 212223240116
+![image](https://github.com/AasrithSairam/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139331438/93f9c9ab-866f-4784-af23-bce94ee7dcf0)
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
